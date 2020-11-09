@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fitnessapp-aa316": {
+      "hosting": {
+        "fintess-app": [
+          "fitnessapp-aa316"
+        ]
+      }
+    }
+  }
+}
