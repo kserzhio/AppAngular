@@ -46,7 +46,7 @@ import { environment } from 'src/environments/environment';
     FlexLayoutModule,
     ReactiveFormsModule,
     AngularFireModule.initializeApp(environment.firebase),
-    AngularFirestoreModule
+    AngularFirestoreModule,
   ],
   providers: [AuthService, TrainingService],
   bootstrap: [AppComponent],
