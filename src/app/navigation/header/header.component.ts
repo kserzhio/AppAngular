@@ -26,7 +26,7 @@ export class HeaderComponent implements OnInit, OnDestroy {
       }
     );
   }
-  ongToggleSidenav() {
+  onToggleSidenav() {
     this.sidenavToggle.emit();
   }
   onLogout() {
